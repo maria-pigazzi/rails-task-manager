@@ -4,10 +4,8 @@ one:
   title: MyString
   details: MyText
   completed: false
-  default: 
 
 two:
   title: MyString
   details: MyText
   completed: false
-  default: 
